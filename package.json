@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-node-express-mongodb",
+  "version": "1.0.0",
+  "description": "Ejercico practico con nodejs, express y mongoDB. Para la manipulacion de tarjetas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseIgnacioIrumberry/Ejercicio-Node-Express-MongoDb.git"
+  },
+  "author": "Jose Ignacio Irumberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseIgnacioIrumberry/Ejercicio-Node-Express-MongoDb/issues"
+  },
+  "homepage": "https://github.com/joseIgnacioIrumberry/Ejercicio-Node-Express-MongoDb#readme"
+}
